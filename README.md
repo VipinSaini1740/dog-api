@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Dogp-Api with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://dog-api-b6f36.web.app).
 
-## Available Scripts
+## https://dog-api-b6f36.web.app
 
 In the project directory, you can run:
 
@@ -17,7 +17,7 @@ You will also see any lint errors in the console.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+See the section about [running tests](https://dog-api-b6f36.web.app) for more information.
 
 ### `npm run build`
 
@@ -27,7 +27,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://dog-api-b6f36.web.app) for more information.
 
 ### `npm run eject`
 
@@ -41,7 +41,7 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+You can learn more in the [Create React App documentation](https://dog-api-b6f36.web.app).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
